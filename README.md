@@ -2,4 +2,4 @@
 # Función
 El programa se utiliza para convertir cualquier decimal entero  a su versión en binario binario
 ## Requisitos para usarlo 
-Un compilador de phyton 
+Un compilador de python 
