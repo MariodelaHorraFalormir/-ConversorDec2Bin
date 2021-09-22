@@ -1,2 +1,3 @@
 #  ConversorDec2Bin
-# this is a <h1< tag
+# Función
+El programa se utiliza para convertir un decimal binario
