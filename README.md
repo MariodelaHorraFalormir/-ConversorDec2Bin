@@ -1,5 +1,5 @@
 #  ConversorDec2Bin
 # Función
-El programa se utiliza para convertir un decimal binario
+El programa se utiliza para convertir cualquier decimal entero  a su versión en binario binario
 ## Requisitos para usarlo 
-Un copilador de pyton 
+Un copilador de phyton 
